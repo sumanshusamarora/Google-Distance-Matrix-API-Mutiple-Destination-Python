@@ -14,8 +14,7 @@ import requests
 
 folder_path = r'F:\Upwork\Geo-cordiantes mapping and distance calculation'
 excel_file_name = "Watewater UPS Sites- WRE List.xlsx"
-#API_KEY = 'AIzaSyAkopDP0Y7pobeUOVsHq9x86vm7tHA-G3Y' #dsaglobal
-API_KEY = 'AIzaSyCkuk1eRUfWQb6TcMDFBRB4cp4ePFDEJsI' #admin@mlai
+API_KEY = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 
 
 
